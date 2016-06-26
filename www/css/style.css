@@ -9,52 +9,7 @@
 
 
 
-#slider {
-  display: block;
-  max-width:320px;
-  max-height:175px;
-  width: auto;
-  height: auto;
-}
 
-/*#content-slider {*/
-/*display: block;*/
-/*max-width:230px;*/
-/*max-height:95px;*/
-/*width: auto;*/
-/*height: auto;*/
-/*}*/
-
-/*#mask {*/
-/*display: block;*/
-/*max-width:230px;*/
-/*max-height:95px;*/
-/*width: auto;*/
-/*height: auto;*/
-/*}*/
-/*.tooltip {*/
-/*display: block;*/
-/*max-width:230px;*/
-/*max-height:95px;*/
-/*width: auto;*/
-/*height: auto;*/
-/*}*/
-
-/*.firstanimation{*/
-/*display: block;*/
-/*max-width:230px;*/
-/*max-height:95px;*/
-/*width: auto;*/
-/*height: auto;*/
-/*}*/
-
-img {
-  display: block;
-  max-width:350px;
-  max-height:185px;
-  width: auto;
-  height: auto;
-}
 
 
 .infoWindowContent {
@@ -108,8 +63,14 @@ a {
   color: red;
 }
 
-
-
+.reload_oll{
+  display: block;
+  font-size: xx-large;
+  padding-left: 10px;
+}
+.reload_oll.img{
+  padding-left: 10px;
+}
 
 /* Теги Работа с Табами
 ======================================*/
@@ -382,8 +343,6 @@ a {
 
 /* Search_history
 ======================================*/
-
-
 
 
 
