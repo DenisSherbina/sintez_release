@@ -1,0 +1,474 @@
+/* Empty. Add your own CSS if you like */
+#map {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+
+
+#slider {
+  display: block;
+  max-width:320px;
+  max-height:175px;
+  width: auto;
+  height: auto;
+}
+
+/*#content-slider {*/
+/*display: block;*/
+/*max-width:230px;*/
+/*max-height:95px;*/
+/*width: auto;*/
+/*height: auto;*/
+/*}*/
+
+/*#mask {*/
+/*display: block;*/
+/*max-width:230px;*/
+/*max-height:95px;*/
+/*width: auto;*/
+/*height: auto;*/
+/*}*/
+/*.tooltip {*/
+/*display: block;*/
+/*max-width:230px;*/
+/*max-height:95px;*/
+/*width: auto;*/
+/*height: auto;*/
+/*}*/
+
+/*.firstanimation{*/
+/*display: block;*/
+/*max-width:230px;*/
+/*max-height:95px;*/
+/*width: auto;*/
+/*height: auto;*/
+/*}*/
+
+img {
+  display: block;
+  max-width:350px;
+  max-height:185px;
+  width: auto;
+  height: auto;
+}
+
+
+.infoWindowContent {
+  font-size:  14px !important;
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+}
+h2 {
+  margin-bottom:0;
+  margin-top: 0;
+}
+
+
+
+
+
+
+
+
+
+
+map {  /* - Без # - это для directive */
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.scroll {
+  height: 100%;
+}
+
+
+img { border: 0; }
+
+#content {
+  position: fixed;
+  top: 10px;
+  left: 800px;
+  margin: 30px;
+}
+
+
+
+/* ГЛОБАЛЬНЫЕ ИЗМЕНЕНИЯ
+======================================*/
+a {
+  text-decoration: none; /* Отменяем подчеркивание у ссылки */
+}
+
+.Map_point_of_interest {
+  font-size: xx-large;
+  color: red;
+}
+
+
+
+
+/* Теги Работа с Табами
+======================================*/
+
+/*
+.tabs-top > .tabs, .tabs.tabs-top {
+  top: 0;
+}
+
+.tabs-striped.tabs-background-positive .tabs {
+  background: #009688;
+  border-color: #009688;
+} */
+
+
+
+
+
+
+
+/* МЕНЮ
+======================================*/
+
+
+/*.bar.bar-header.item-input-inset.height.All_AZS {
+  padding-bottom: 20px;
+}*/
+
+
+.image_title_fon {
+  margin: -5px;
+  position: absolute;
+}
+
+.image_title_company {
+  position: absolute;
+  margin-left: 62px;
+}
+
+.imimmimi{
+  width: 200px;
+  height: 100px;
+}
+
+.bar-stable.bar.bar-header{
+  /*  background-image: url("../img/fon1.jpg");
+    background-size: 200px; */
+}
+.bar-stable.bar.bar-header.image {
+}
+
+.menu .bar-header {
+  padding-bottom: 140px;
+}
+
+.menu_left_title {
+
+}
+
+.menu_left_title_content_1 {
+  padding-top: 100px;
+}
+
+.menu .bar-header {
+  background: #00796B;
+}
+
+.menu .scroll-content {
+  background: #009688;
+}
+
+.item-complex .item-content, .item-radio .item-content {
+  background: #009688;
+  color: white;
+}
+
+.bar.bar-stable .title {
+  color: white;
+}
+
+.a[href]:hover {
+  color: black;
+}
+
+.item-complex:hover .item-content:hover, .item-radio:hover .item-content:hover {
+  color: black;
+}
+
+
+.bar.bar-stable .title {
+  color: white;
+  background: #00796B;
+}
+
+.button:after {
+  /*  background: #00796B;
+    color: black; */
+}
+
+.bar.bar-stable {
+  background: #00796B;
+}
+
+.item-complex, a.item.item-complex, button.item.item-complex {
+  border-color: #00796B;
+}
+
+
+.has-header {
+  background: cornsilk;
+}
+
+
+
+
+/* Картинки боковое меню
+======================================*/
+.ion-paper-airplane{
+  font-size: 23px;
+  padding-right: 20px;
+  color: cornsilk;
+}
+.ion-trophy{
+  font-size: 23px;
+  padding-right: 20px;
+  color: cornsilk;
+}
+.ion-android-calendar{
+  font-size: 23px;
+  padding-right: 20px;
+  color: cornsilk;
+}
+.ion-model-s{
+  font-size: 23px;
+  padding-right: 20px;
+  color: cornsilk;
+}
+.ion-android-pin{
+  font-size: 23px;
+  padding-right: 20px;
+  color: cornsilk;
+}
+.ion-android-navigate{
+  font-size: 23px;
+  padding-right: 20px;
+  color: cornsilk;
+}
+
+
+
+
+/* Feedback
+======================================*/
+
+
+
+
+.feedback_title {
+  margin: auto;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.feedback_text {
+  margin: auto;
+  text-align: center;
+}
+
+.feedback_text.signature {
+  margin: auto;
+  text-align: center;
+  margin-top: 25px;
+}
+
+.feedback_text.hot_phone {
+  font-weight: bold;
+  font-size: large;
+}
+
+.feedback_text.mail {
+  font-weight: 600;
+  font-size: large;
+  color: #0c60ee;
+}
+
+.feedback_adres {
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.feedback_text.client_phone {
+  font-weight: 500;
+  font-size: medium;
+}
+
+.button.button-full.button-positive.feedback {
+  margin-top: 25px;
+  background: #00796B;
+  position: relative;
+  display: inline-block;
+  font-size: 90%;
+  font-weight: 700;
+  color: #f8f8f8;
+  text-decoration: none;
+  text-shadow: 0 -1px 2px rgba(0,0,0,.2);
+  padding: .5em 1em;
+  outline: none;
+  border-radius: 3px;
+  box-shadow:
+    0 1px rgba(255,255,255,.2) inset,
+    0 3px 5px rgba(0,1,6,.5),
+    0 0 1px 1px rgba(0,1,6,.2);
+  transition: .2s ease-in-out;
+}
+/*
+.button.button-full.button-positive.About_company:hover:not(:active) {
+    background: linear-gradient(rgb(126,126,134), rgb(70,71,76)) rgb(126,126,134);
+}
+*/
+.button.button-full.button-positive.feedback:active {
+  top: 1px;
+  background: linear-gradient(#00796B, #00796B, #0079FC); /* на этом месте была исправлена ошибка*/
+  box-shadow:
+    0 0 1px rgba(0,0,0,.5) inset,
+    0 2px 3px rgba(0,0,0,.5) inset,
+    0 1px 1px rgba(255,255,255,.1);
+}
+
+
+
+/* Build_route
+======================================*/
+
+.input-label.text.search_History{
+  font-size: 10px;
+}
+
+.button.button-full.button-dark.search_history{
+  font-size: large;
+  height: 40px;
+  margin-top: auto;
+  position: absolute;
+}
+
+
+.Building_a_route {
+  margin-top: 10px;
+}
+
+.list.Building_a_route {
+  margin-top: -10px;
+}
+
+.button.button-block.button-positive.color {
+  color: #4d4d4d;
+  background-color: #ffff99;
+  border-bottom: groove;
+}
+.button.button-block.button-positive.color:active {
+  left: 1px;
+  right: 1px;
+}
+.item.item-avatar.Build:active {
+  background-color: #ffff99;
+}
+
+
+
+
+/* Search_history
+======================================*/
+
+
+
+
+
+
+
+/* About_company
+======================================*/
+
+.button.button-full.button-positive.About_company {
+  background: #00796B;
+  position: relative;
+  display: inline-block;
+  font-size: 90%;
+  font-weight: 700;
+  color: #f8f8f8;
+  text-decoration: none;
+  text-shadow: 0 -1px 2px rgba(0,0,0,.2);
+  padding: .5em 1em;
+  outline: none;
+  border-radius: 3px;
+  /*  background: linear-gradient(rgb(110,112,120), rgb(81,81,86)) rgb(110,112,120); */
+  box-shadow:
+    0 1px rgba(255,255,255,.2) inset,
+    0 3px 5px rgba(0,1,6,.5),
+    0 0 1px 1px rgba(0,1,6,.2);
+  transition: .2s ease-in-out;
+}
+/*
+.button.button-full.button-positive.About_company:hover:not(:active) {
+    background: linear-gradient(rgb(126,126,134), rgb(70,71,76)) rgb(126,126,134);
+}
+*/
+.button.button-full.button-positive.About_company:active {
+  top: 1px;
+  background: linear-gradient(#00796B, #00796B, #0079FC); /* На этом местебыла исправлена ошибка */
+  box-shadow:
+    0 0 1px rgba(0,0,0,.5) inset,
+    0 2px 3px rgba(0,0,0,.5) inset,
+    0 1px 1px rgba(255,255,255,.1);
+}
+
+
+
+
+
+
+
+
+/* ALL_AZS
+======================================*/
+
+.button.button-full.button-positive.ALL_AZS {
+  background: #00796B;
+
+}
+.button.button-dark.ALL_AZS{
+}
+
+.bar-stable_ALL_AZS {
+  margin-top: 39px;
+}
+
+.Content_ALL_AZS {
+  padding-top: 36px;
+}
+
+/* ALL_AZS
+======================================*/
+
+.button.button-full.button-positive.color {
+  background: #00796B;
+}
+
+
+
+
+/* ALL_near
+======================================*/
+
+.button.button-full.button-positive.ALL_near {
+  background: #00796B;
+}
+
+
+
+
+
+/* New component =============== */
